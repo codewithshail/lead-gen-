@@ -1157,7 +1157,9 @@ The **AI contribution** is evident in:
 
 **Report Generated:** January 2025  
 **Confidence Level:** 99% (with deep analysis)  
-**Methodology:** Static code analysis, pattern recognition, configuration inspection, documentation review, package version analysis, migration analysis, script analysis
+**Methodology:** Static code analysis, pattern recognition, configuration inspection, documentation review, package version analysis, migration analysis, script analysis, file-by-file classification
+
+**📁 Detailed File Classification:** See `FILE_BY_FILE_CLASSIFICATION.md` for complete file-by-file breakdown of all 647 TypeScript files
 
 ---
 
